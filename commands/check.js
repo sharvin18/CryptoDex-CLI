@@ -1,4 +1,3 @@
-// 223ca8c4b094accab5f6d6eb9b24a3e2e960465a - API KEY
 const KeyManager = require('../lib/KeyManager');
 const CryptoApi = require('../lib/CryptoApi');
 
