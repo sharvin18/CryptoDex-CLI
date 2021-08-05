@@ -1,7 +1,9 @@
 # CryptoDex-CLI
-Command line interface written in Node.js to check cryptocurrency prices
+A Command line interface written in Node.js to check the current cryptocurrency prices.
+Use the commands given below to set your api key and using the application through the command line.
 
-Register an API key at https://nomics.com
+
+Register an API key at [Nomics](https://nomics.com)
 
 # Usage
 ```sh
